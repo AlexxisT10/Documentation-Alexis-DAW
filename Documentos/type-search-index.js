@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"edu.ieselgrao.javadoc","l":"Atmosphere"},{"p":"edu.ieselgrao.javadoc","l":"Planet"},{"p":"edu.ieselgrao.javadoc","l":"PlanetType","k":"9"},{"p":"edu.ieselgrao.javadoc","l":"SolarSystem"}];updateSearchResults();
